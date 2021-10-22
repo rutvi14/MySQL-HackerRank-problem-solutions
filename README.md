@@ -18,4 +18,21 @@
 | 14 |https://www.hackerrank.com/challenges/weather-observation-station-9/problem  | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/weather_station_observation_9 |
 | 15 | https://www.hackerrank.com/challenges/weather-observation-station-10/problem  | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/weather_station_observation_10 |
 | 16 |https://www.hackerrank.com/challenges/weather-observation-station-11/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/weather_station_observation_11 |
+| 17 | https://www.hackerrank.com/challenges/weather-observation-station-12/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/weather_station_observation_12 |
+|18 | https://www.hackerrank.com/challenges/more-than-75-marks/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/higher_han_75_marks |
+| 19 | https://www.hackerrank.com/challenges/name-of-employees/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/employee_names |
+| 20 | https://www.hackerrank.com/challenges/salary-of-employees/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/employee_salaries |
+| 21 | https://www.hackerrank.com/challenges/weather-observation-station-20/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/weather-observation-station-20 |
+| 22 | https://www.hackerrank.com/challenges/binary-search-tree | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/binary_tree_nodes |
+| 23 | https://www.hackerrank.com/challenges/the-company/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/new_company_problem |
+
+
+
+
+
+
+
+
+
+
 
