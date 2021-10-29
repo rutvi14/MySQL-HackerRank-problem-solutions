@@ -1,0 +1,4 @@
+select country.continent,floor(avg(city.population))
+from city,country
+where CITY.CountryCode = COUNTRY.Code
+group by country.continent; 
