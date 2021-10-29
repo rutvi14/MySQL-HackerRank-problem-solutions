@@ -26,8 +26,7 @@
 | 22 | https://www.hackerrank.com/challenges/binary-search-tree | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/binary_tree_nodes |
 | 23 | https://www.hackerrank.com/challenges/the-company/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/new_company_problem |
 | 24 | https://www.hackerrank.com/challenges/african-cities/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/african-cities |
-| 25 | https://www.hackerrank.com/challenges/average-population-of-each-continent/problem 
-| https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/avg-population-of-each-continent |
+| 25 | https://www.hackerrank.com/challenges/average-population-of-each-continent/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/avg-population-of-each-continent |
 | 26 | https://www.hackerrank.com/challenges/the-report/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/the-report |
 
 
