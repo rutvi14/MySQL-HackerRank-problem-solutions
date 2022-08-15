@@ -38,7 +38,8 @@
 | 5 | https://www.hackerrank.com/challenges/weather-observation-station-14/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation14 |
 | 6 | https://www.hackerrank.com/challenges/weather-observation-station-15/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation15 |
 | 7 | https://www.hackerrank.com/challenges/weather-observation-station-16/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation16 |
-
+| 8 | https://www.hackerrank.com/challenges/weather-observation-station-17/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation17 |
+| 9 | https://www.hackerrank.com/challenges/weather-observation-station-18/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation18 |
 
 
 
