@@ -1,6 +1,6 @@
 # SQL_hackerrank_queries
 
-| Number | Select Problem link        | Solutions    |
+| Number | Select Problems link        | Solutions    |
 | ------------- |:-------------:| :---------: |
 | 1 | https://www.hackerrank.com/challenges/revising-the-select-query/problem     | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/revising_SQL_query |
 | 2 | https://www.hackerrank.com/challenges/revising-the-select-query-2/problem   | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/revising_SQL_query2 |
@@ -34,6 +34,11 @@
 | 1 | https://www.hackerrank.com/challenges/the-blunder/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/TheBlunder |
 | 2 | https://www.hackerrank.com/challenges/earnings-of-employees/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/TopEarner | 
 | 3 | https://www.hackerrank.com/challenges/weather-observation-station-2/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation2 |
+| 4 | https://www.hackerrank.com/challenges/weather-observation-station-13/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation13 |
+| 5 | https://www.hackerrank.com/challenges/weather-observation-station-14/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation14 |
+| 6 | https://www.hackerrank.com/challenges/weather-observation-station-15/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation15 |
+| 7 | https://www.hackerrank.com/challenges/weather-observation-station-16/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation16 |
+
 
 
 
