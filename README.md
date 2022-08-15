@@ -29,6 +29,11 @@
 | 25 | https://www.hackerrank.com/challenges/average-population-of-each-continent/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/avg-population-of-each-continent |
 | 26 | https://www.hackerrank.com/challenges/the-report/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/the-report |
 
+| Number | Advance Select Problems link| Solutions    |
+| --- |:---:| :---: |
+| 1 | https://www.hackerrank.com/challenges/the-pads/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/AdvanceSelect/ThePADS |
+
+
 | Number | Aggregation Problems link| Solutions    |
 | --- |:---:| :---: |
 | 1 | https://www.hackerrank.com/challenges/the-blunder/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/TheBlunder |
