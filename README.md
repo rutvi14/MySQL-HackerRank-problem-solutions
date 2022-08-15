@@ -29,11 +29,11 @@
 | 25 | https://www.hackerrank.com/challenges/average-population-of-each-continent/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/avg-population-of-each-continent |
 | 26 | https://www.hackerrank.com/challenges/the-report/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/select/the-report |
 
-| **Number | Aggregation Problems link| Solutions   ** |
+| Number | Aggregation Problems link| Solutions    |
 | --- |:---:| :---: |
-| 27 | https://www.hackerrank.com/challenges/the-blunder/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/TheBlunder |
-| 28 | https://www.hackerrank.com/challenges/earnings-of-employees/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/TopEarner | 
-| 29 | https://www.hackerrank.com/challenges/weather-observation-station-2/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation2 |
+| 1 | https://www.hackerrank.com/challenges/the-blunder/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/TheBlunder |
+| 2 | https://www.hackerrank.com/challenges/earnings-of-employees/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/TopEarner | 
+| 3 | https://www.hackerrank.com/challenges/weather-observation-station-2/problem | https://github.com/rutvi14/SQL_hackerrank_queries/blob/main/aggregation/WeatherObservationStation2 |
 
 
 
