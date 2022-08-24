@@ -32,6 +32,8 @@
 | Number | Advance Select Problems link| Solutions    |
 | --- |:---:| :---: |
 | 1 | https://www.hackerrank.com/challenges/the-pads/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/AdvanceSelect/ThePADS |
+| 2 | https://www.hackerrank.com/challenges/occupations/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/AdvanceSelect/occupation |
+| 3 | https://www.hackerrank.com/challenges/what-type-of-triangle/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/AdvanceSelect/TypesOfTriangle|
 
 
 | Number | Aggregation Problems link| Solutions    |
