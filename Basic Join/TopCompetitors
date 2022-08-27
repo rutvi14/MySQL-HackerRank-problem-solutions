@@ -1,0 +1,1 @@
+select t1.hacker_id,t1.name from (select s.hacker_id,h.name,count(*) as cnt from submissions s inner join challenges c on s.challenge_id = c.challenge_id inner join hackers h on h.hacker_id = s.hacker_id inner join difficulty d on c.difficulty_level = d.difficulty_level and s.score = d.score group by s.hacker_id,h.name) t1 where t1.cnt>1 order by t1.cnt desc,t1.hacker_id asc;
