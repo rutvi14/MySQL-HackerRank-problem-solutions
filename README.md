@@ -51,9 +51,11 @@
 | 11 | https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/aggregation/RevisingAggregation |
 | 12 | https://www.hackerrank.com/challenges/revising-aggregations-sum/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/aggregation/RevisingAggregationSum |
 
-
-
-
+| Number | Basic Join Problems link| Solutions    |
+| --- |:---:| :---: |
+| 1 | https://www.hackerrank.com/challenges/asian-population/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/PopulationCensus | 
+| 2 | https://www.hackerrank.com/challenges/full-score/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/TopCompetitors |
+| 3 | 
 
 
 
