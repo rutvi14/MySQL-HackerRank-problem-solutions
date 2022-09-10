@@ -55,7 +55,8 @@
 | --- |:---:| :---: |
 | 1 | https://www.hackerrank.com/challenges/asian-population/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/PopulationCensus | 
 | 2 | https://www.hackerrank.com/challenges/full-score/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/TopCompetitors |
-| 3 | 
+| 3 | https://www.hackerrank.com/challenges/harry-potter-and-wands/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/OliviandersInventory |
+| 4 | https://www.hackerrank.com/challenges/challenges/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/Challenges | 
 
 
 
