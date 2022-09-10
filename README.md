@@ -57,6 +57,16 @@
 | 2 | https://www.hackerrank.com/challenges/full-score/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/TopCompetitors |
 | 3 | https://www.hackerrank.com/challenges/harry-potter-and-wands/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/OliviandersInventory |
 | 4 | https://www.hackerrank.com/challenges/challenges/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/Challenges | 
+| 5 | https://www.hackerrank.com/challenges/contest-leaderboard/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Basic%20Join/ContestLeaderBoard |
+
+| Number | Alternative Problems link| Solutions    |
+| --- |:---:| :---: |
+| 1 | https://www.hackerrank.com/challenges/draw-the-triangle-1/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Alternative%20Queries/triangle |
+| 2 | https://www.hackerrank.com/challenges/draw-the-triangle-2/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Alternative%20Queries/triangle2 | 
+
+| Number | Advance Join Problems link| Solutions    |
+| --- |:---:| :---: |
+| 1 | https://www.hackerrank.com/challenges/symmetric-pairs/problem | https://github.com/rutvi14/MySQL-HackerRank-problem-solutions/blob/main/Advance%20Join/Symmetric%20pairs | 
 
 
 
